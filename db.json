@@ -1,0 +1,56 @@
+{
+  "quotes": [
+    {
+      "product": "car",
+      "covertype": "Comprehensive",
+      "claims": "No previous claims",
+      "excess": 0,
+      "protectedncb": false,
+      "additionaldrivers": "No additional drivers",
+      "id": 0,
+      "name": "BMW 330ci Sport Coupe 2979cc",
+      "price": 41033,
+      "startdate": "2018-10-23T00:00:00"
+    },
+    {
+      "product": "car",
+      "covertype": "Comprehensive",
+      "claims": "No previous claims",
+      "excess": 0,
+      "protectedncb": true,
+      "additionaldrivers": "No additional drivers",
+      "id": 1,
+      "name": "BMW 120d MSport 1995cc",
+      "price": 23400,
+      "startdate": "2018-10-22T00:00:00"
+    },
+    {
+      "product": "car",
+      "covertype": "Comprehensive",
+      "claims": "No previous claims",
+      "excess": 500,
+      "protectedncb": true,
+      "additionaldrivers": "No additional drivers",
+      "id": 2,
+      "name": "Hyundai Santa Fe Premium CRDI (4WD) 2199cc",
+      "price": 51410,
+      "startdate": "2018-09-01T00:00:00"
+    },
+    {
+      "product": "pet",
+      "id": 3,
+      "name": "Benji",
+      "breed": "Dog",
+      "startdate": "2018-09-01T00:00:00"
+    },
+    {
+      "product": "pet",
+      "id": 4,
+      "name": "Joey",
+      "breed": "Cat",
+      "startdate": "2018-09-01T00:00:00"
+    }
+  ]
+}
+
+
