@@ -5,7 +5,7 @@
       "product": "car",
       "name": "BMW 330ci Sport Coupe 2979cc",
       "price": 41033,
-      "features": {
+      "policyDetails": {
         "cover-type": "Comprehensive",
         "claims": "No previous claims",
         "excess": 0,
@@ -19,7 +19,7 @@
       "product": "car",
       "name": "BMW 120d MSport 1995cc",
       "price": 23400,
-      "features": {
+      "policyDetails": {
         "cover-type": "Comprehensive",
         "claims": "No previous claims",
         "excess": 0,
@@ -33,7 +33,7 @@
       "product": "car",
       "name": "Hyundai Santa Fe Premium CRDI (4WD) 2199cc",
       "price": 51410,
-      "features": {
+      "policyDetails": {
         "cover-type": "Comprehensive",
         "claims": "No previous claims",
         "excess": 500,
@@ -46,7 +46,7 @@
       "id": 3,
       "product": "pet",
       "name": "Benji",
-      "features": {
+      "policyDetails": {
         "breed": "Dog",
         "cover-start-date": "2018-09-01T00:00:00"
       }
@@ -55,7 +55,7 @@
       "id": 4,
       "product": "pet",
       "name": "Joey",
-      "features": {
+      "policyDetails": {
         "breed": "Cat",
         "cover-start-date": "2018-09-01T00:00:00"
       }
