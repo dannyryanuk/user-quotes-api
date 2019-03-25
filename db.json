@@ -10,7 +10,7 @@
       "id": 0,
       "name": "BMW 330ci Sport Coupe 2979cc",
       "price": 41033,
-      "start-date": "2018-10-23T00:00:00"
+      "cover-start-date": "2018-10-23T00:00:00"
     },
     {
       "product": "car",
@@ -22,7 +22,7 @@
       "id": 1,
       "name": "BMW 120d MSport 1995cc",
       "price": 23400,
-      "start-date": "2018-10-22T00:00:00"
+      "cover-start-date": "2018-10-22T00:00:00"
     },
     {
       "product": "car",
@@ -34,21 +34,21 @@
       "id": 2,
       "name": "Hyundai Santa Fe Premium CRDI (4WD) 2199cc",
       "price": 51410,
-      "start-date": "2018-09-01T00:00:00"
+      "cover-start-date": "2018-09-01T00:00:00"
     },
     {
       "product": "pet",
       "id": 3,
       "name": "Benji",
       "breed": "Dog",
-      "start-date": "2018-09-01T00:00:00"
+      "cover-start-date": "2018-09-01T00:00:00"
     },
     {
       "product": "pet",
       "id": 4,
       "name": "Joey",
       "breed": "Cat",
-      "start-date": "2018-09-01T00:00:00"
+      "cover-start-date": "2018-09-01T00:00:00"
     }
   ]
 }
